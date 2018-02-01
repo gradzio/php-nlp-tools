@@ -1,12 +1,12 @@
 {
-	"name": "nlp-tools/nlp-tools",
-	"description": "NlpTools is a set of php 5.3+ classes for beginner to semi advanced natural language processing work.",
+	"name": "gradzio/nlp-tools",
+	"description": "Fork of Angelos Katharopoulos's NlpTools is a set of php 5.3+ classes for beginner to semi advanced natural language processing work.",
 	"keywords": ["nlp","machine learning"],
 	"license": "WTFPL",
 	"authors": [
 		{
-			"name": "Angelos Katharopoulos",
-			"email": "angelos@yourse.gr"
+			"name": "Greg Radzio",
+			"email": "gregradzio@gmail.com"
 		}
 	],
 	"require": {
